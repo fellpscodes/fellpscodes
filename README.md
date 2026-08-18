@@ -49,14 +49,6 @@ I'm always looking for new challenges and opportunities to keep growing and appl
 
 </details>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fellpscodes&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
