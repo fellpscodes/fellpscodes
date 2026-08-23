@@ -16,8 +16,8 @@ I'm a Brazilian student passionate about technology and programming. Since I was
 
 I'm currently pursuing a degree in **Analysis and Systems Development at Universidade Católica de Brasília**, focusing on building projects that help me grow as a developer and turn ideas into real solutions.
 
-* 🔭 Currently building a **Spring Boot e-commerce API** with JWT authentication, shopping cart, checkout, and Stripe integration.
-* 🌱 Deepening my knowledge of **Java, Spring, and backend architecture**.
+*  Currently building a **Spring Boot e-commerce API** with JWT authentication, shopping cart, checkout, and Stripe integration.
+*  Deepening my knowledge of **Java, Spring, and backend architecture**.
 
 ## 💻 Languages & Tools
 
